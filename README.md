@@ -2,5 +2,5 @@
 
 ## An Interactive game using python and tkinter.
 
-Demo Video:
+#### Demo Video 🔥:
 <img src = "Snake_n_ladder_demo.gif"/>
